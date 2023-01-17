@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.jpa.datasource.plateform",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.jpa.datasource.plateform'"
+}]}
